@@ -1,0 +1,6 @@
+*.[oa]
+~
+# Ignoriere tmp/
+tmp/
+# Ignoriere log/
+log/
